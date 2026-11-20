@@ -1,0 +1,69 @@
+{
+  "motif_version": "0.1.0",
+  "device": "cuda:0",
+  "batch_size": 8,
+  "reference_clips": [
+    "ref_1.mp4",
+    "ref_2.mp4",
+    "ref_3.mp4",
+    "ref_4.mp4",
+    "ref_5.mp4",
+    "ref_6.mp4",
+    "ref_7.mp4",
+    "ref_8.mp4"
+  ],
+  "num_reference_videos": 8,
+  "auc": 1.0,
+  "margin": 2.4429633068972136,
+  "results": [
+    {
+      "clip": "test_real_1.mp4",
+      "label": "real",
+      "score": -1.1066352171287828,
+      "global_score": -1.6115579439239573,
+      "mouth_score": -0.6017124903336082
+    },
+    {
+      "clip": "test_real_3.mp4",
+      "label": "real",
+      "score": -1.1341053487485722,
+      "global_score": -0.7177228672512228,
+      "mouth_score": -1.5504878302459217
+    },
+    {
+      "clip": "test_real_2.mp4",
+      "label": "real",
+      "score": -3.616441740813278,
+      "global_score": -2.3107526312393682,
+      "mouth_score": -4.9221308503871875
+    },
+    {
+      "clip": "test_fake_4.mp4",
+      "label": "fake",
+      "score": -6.0594050477104915,
+      "global_score": -7.232732917645316,
+      "mouth_score": -4.886077177775668
+    },
+    {
+      "clip": "test_fake_1.mp4",
+      "label": "fake",
+      "score": -6.471582566741521,
+      "global_score": -7.970780693147784,
+      "mouth_score": -4.972384440335258
+    },
+    {
+      "clip": "test_fake_2.mp4",
+      "label": "fake",
+      "score": -6.746460958534316,
+      "global_score": -9.085219132624893,
+      "mouth_score": -4.40770278444374
+    },
+    {
+      "clip": "test_fake_3.mp4",
+      "label": "fake",
+      "score": -8.273233215862291,
+      "global_score": -10.902019690673114,
+      "mouth_score": -5.644446741051467
+    }
+  ]
+}
