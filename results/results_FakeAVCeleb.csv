@@ -1,0 +1,567 @@
+subject,query,label,score_S,fake_score
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id03379_A32nCObAHiI.mp4,1,0.6354735493659973,-0.6354735493659973
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id02587_KzwJPH5_8j0.mp4,1,0.7491622567176819,-0.7491622567176819
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id02807_eFC0STvhou4_faceswap.mp4,1,0.6553627252578735,-0.6553627252578735
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id02807_eFC0STvhou4.mp4,1,0.6316174268722534,-0.6316174268722534
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id06060___Bf93SjJP0.mp4,1,0.6238203644752502,-0.6238203644752502
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id04701_7mnc8w6jRlM.mp4,1,0.3908805847167969,-0.3908805847167969
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id05620_DmPPLeOZkHo.mp4,1,0.7165427803993225,-0.7165427803993225
+id06462,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06462/00014_id00935_09fNE0b4Dlg.mp4,1,0.6776978373527527,-0.6776978373527527
+id06462,/content/datasets/voxceleb/id06462/10_00076.mp4,0,0.9685338735580444,-0.9685338735580444
+id06462,/content/datasets/voxceleb/id06462/11_00053.mp4,0,0.9454190135002136,-0.9454190135002136
+id06462,/content/datasets/voxceleb/id06462/12_00068.mp4,0,0.943317174911499,-0.943317174911499
+id06462,/content/datasets/voxceleb/id06462/13_00050.mp4,0,0.9319263100624084,-0.9319263100624084
+id06462,/content/datasets/voxceleb/id06462/14_00061.mp4,0,0.9477599859237671,-0.9477599859237671
+id06462,/content/datasets/voxceleb/id06462/15_00074.mp4,0,0.9187729954719543,-0.9187729954719543
+id06462,/content/datasets/voxceleb/id06462/16_00045.mp4,0,0.9252446889877319,-0.9252446889877319
+id06462,/content/datasets/voxceleb/id06462/17_00078.mp4,0,0.9223690629005432,-0.9223690629005432
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id01204_biYGqpYBp7o.mp4,1,0.4695555865764618,-0.4695555865764618
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id02332_hlo8q3-L9vI.mp4,1,0.7148063778877258,-0.7148063778877258
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id06470_XoAiqCrOlyk.mp4,1,0.7921624779701233,-0.7921624779701233
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id02553_QTahH2rc8go.mp4,1,0.7906519174575806,-0.7906519174575806
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id01589_ZCwF6XVRiAU.mp4,1,0.6071871519088745,-0.6071871519088745
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id02365_KTHM_LvjcgY.mp4,1,0.48845458030700684,-0.48845458030700684
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id07102_4gKPlwvjpsI_faceswap.mp4,1,0.9919416308403015,-0.9919416308403015
+id09053,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id09053/00005_id07102_4gKPlwvjpsI.mp4,1,0.5998925566673279,-0.5998925566673279
+id09053,/content/datasets/voxceleb/id09053/10_00075.mp4,0,0.9216917157173157,-0.9216917157173157
+id09053,/content/datasets/voxceleb/id09053/11_00073.mp4,0,0.8834548592567444,-0.8834548592567444
+id09053,/content/datasets/voxceleb/id09053/12_00008.mp4,0,0.7660183310508728,-0.7660183310508728
+id09053,/content/datasets/voxceleb/id09053/13_00015.mp4,0,0.8007425665855408,-0.8007425665855408
+id09053,/content/datasets/voxceleb/id09053/14_00014.mp4,0,0.795014500617981,-0.795014500617981
+id09053,/content/datasets/voxceleb/id09053/15_00016.mp4,0,0.7885790467262268,-0.7885790467262268
+id09053,/content/datasets/voxceleb/id09053/16_00038.mp4,0,0.8637534379959106,-0.8637534379959106
+id09053,/content/datasets/voxceleb/id09053/17_00037.mp4,0,0.8307675123214722,-0.8307675123214722
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id07051_d1c0Pl2aP_4.mp4,1,0.5966728329658508,-0.5966728329658508
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id07136_4e43eS5p3_M_faceswap.mp4,1,0.6825740933418274,-0.6825740933418274
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id05845_XfMHm6CEwPw.mp4,1,0.6983862519264221,-0.6983862519264221
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id05478_VJkjRzPt-Jw.mp4,1,0.626112699508667,-0.626112699508667
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id00080_y29QtxBTASE.mp4,1,0.7208181619644165,-0.7208181619644165
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id05434_6p7kCmdOjDQ.mp4,1,0.6592749953269958,-0.6592749953269958
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id00417_GhIZam3v09g.mp4,1,0.6523593664169312,-0.6523593664169312
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id05931_bFqu86NV3hk.mp4,1,0.5822055339813232,-0.5822055339813232
+id04583,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id04583/00077_id07136_4e43eS5p3_M.mp4,1,0.6670980453491211,-0.6670980453491211
+id04583,/content/datasets/voxceleb/id04583/10_00002.mp4,0,0.8901584148406982,-0.8901584148406982
+id04583,/content/datasets/voxceleb/id04583/11_00091.mp4,0,0.788807213306427,-0.788807213306427
+id04583,/content/datasets/voxceleb/id04583/12_00089.mp4,0,0.7995020747184753,-0.7995020747184753
+id04583,/content/datasets/voxceleb/id04583/13_00090.mp4,0,0.7711696624755859,-0.7711696624755859
+id04583,/content/datasets/voxceleb/id04583/14_00195.mp4,0,0.7469830513000488,-0.7469830513000488
+id04583,/content/datasets/voxceleb/id04583/15_00194.mp4,0,0.7860416173934937,-0.7860416173934937
+id04583,/content/datasets/voxceleb/id04583/16_00164.mp4,0,0.7853151559829712,-0.7853151559829712
+id04583,/content/datasets/voxceleb/id04583/17_00165.mp4,0,0.7817031741142273,-0.7817031741142273
+id04583,/content/datasets/voxceleb/id04583/18_00163.mp4,0,0.7683228254318237,-0.7683228254318237
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00282_iTsqWj6GEbo.mp4,1,0.4176107943058014,-0.4176107943058014
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00183_z2DhZllPWUQ_faceswap.mp4,1,0.5448786020278931,-0.5448786020278931
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id01099_ZpgbIKxzkrg.mp4,1,0.30548956990242004,-0.30548956990242004
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00535_BhvTIJ-YG5s.mp4,1,0.3623908460140228,-0.3623908460140228
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00981_OmNALjENDkI.mp4,1,0.32965990900993347,-0.32965990900993347
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00183_z2DhZllPWUQ.mp4,1,0.5069098472595215,-0.5069098472595215
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00292_qELK8N_DykA.mp4,1,0.28289854526519775,-0.28289854526519775
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00415_saYfEadFy_s.mp4,1,0.32093968987464905,-0.32093968987464905
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00559_Y7ovoKuvL78.mp4,1,0.37245169281959534,-0.37245169281959534
+id00055,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00055/00120_id00063_cVZBXC2rjPM.mp4,1,0.47183603048324585,-0.47183603048324585
+id00055,/content/datasets/voxceleb/id00055/10_00171.mp4,0,0.9706821441650391,-0.9706821441650391
+id00055,/content/datasets/voxceleb/id00055/11_00165.mp4,0,0.9657554030418396,-0.9657554030418396
+id00055,/content/datasets/voxceleb/id00055/12_00163.mp4,0,0.9777504801750183,-0.9777504801750183
+id00055,/content/datasets/voxceleb/id00055/13_00169.mp4,0,0.9707790017127991,-0.9707790017127991
+id00055,/content/datasets/voxceleb/id00055/14_00166.mp4,0,0.9740601181983948,-0.9740601181983948
+id00055,/content/datasets/voxceleb/id00055/15_00170.mp4,0,0.9620128273963928,-0.9620128273963928
+id00055,/content/datasets/voxceleb/id00055/16_00167.mp4,0,0.955826997756958,-0.955826997756958
+id00055,/content/datasets/voxceleb/id00055/17_00168.mp4,0,0.9403377771377563,-0.9403377771377563
+id00055,/content/datasets/voxceleb/id00055/18_00122.mp4,0,0.8705134987831116,-0.8705134987831116
+id00055,/content/datasets/voxceleb/id00055/19_00119.mp4,0,0.8413609862327576,-0.8413609862327576
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00234_M3g5KRLJB60.mp4,1,0.7139042019844055,-0.7139042019844055
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00188_e-vm5FB3idA.mp4,1,0.4562239348888397,-0.4562239348888397
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00271_je6JSLqEEcw.mp4,1,0.5689340233802795,-0.5689340233802795
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00071_JU1cVINUTZA.mp4,1,0.7067596316337585,-0.7067596316337585
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00287_2NpfYjyMsPM.mp4,1,0.607176661491394,-0.607176661491394
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00484_u7YTz8eFZv0.mp4,1,0.6103852391242981,-0.6103852391242981
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00374_w1qI7y9AGTc.mp4,1,0.6432560086250305,-0.6432560086250305
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id03649_389qfFqUddI.mp4,1,0.6148749589920044,-0.6148749589920044
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00234_M3g5KRLJB60_faceswap.mp4,1,0.6976810097694397,-0.6976810097694397
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00373_5NXv3Dxkd6E.mp4,1,0.5888887643814087,-0.5888887643814087
+id00403,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00403/00052_id00897_0ayFw8JhoyI.mp4,1,0.5043899416923523,-0.5043899416923523
+id00403,/content/datasets/voxceleb/id00403/10_00045.mp4,0,0.7859741449356079,-0.7859741449356079
+id00403,/content/datasets/voxceleb/id00403/11_00047.mp4,0,0.7038307785987854,-0.7038307785987854
+id00403,/content/datasets/voxceleb/id00403/12_00046.mp4,0,0.8102385997772217,-0.8102385997772217
+id00403,/content/datasets/voxceleb/id00403/13_00044.mp4,0,0.8044618964195251,-0.8044618964195251
+id00403,/content/datasets/voxceleb/id00403/14_00043.mp4,0,0.783907413482666,-0.783907413482666
+id00403,/content/datasets/voxceleb/id00403/15_00058.mp4,0,0.7633143663406372,-0.7633143663406372
+id00403,/content/datasets/voxceleb/id00403/16_00068.mp4,0,0.7769780158996582,-0.7769780158996582
+id00403,/content/datasets/voxceleb/id00403/17_00061.mp4,0,0.7513263821601868,-0.7513263821601868
+id00403,/content/datasets/voxceleb/id00403/18_00067.mp4,0,0.7765701413154602,-0.7765701413154602
+id00403,/content/datasets/voxceleb/id00403/19_00060.mp4,0,0.7807890176773071,-0.7807890176773071
+id00403,/content/datasets/voxceleb/id00403/20_00066.mp4,0,0.7758069038391113,-0.7758069038391113
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id01231_XXpYdOHUF-g.mp4,1,0.7546986937522888,-0.7546986937522888
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id01225_WuzuZoM84Ws.mp4,1,0.6654924750328064,-0.6654924750328064
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00272_VLY1boTtbRM.mp4,1,0.6706979870796204,-0.6706979870796204
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00575_iPfJcAJQ84Y.mp4,1,0.5377251505851746,-0.5377251505851746
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00618__TwV2SmUIlY_faceswap.mp4,1,0.5179468989372253,-0.5179468989372253
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_0.mp4,1,0.705620288848877,-0.705620288848877
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id01238_VPdv2sexRy0.mp4,1,0.5956729054450989,-0.5956729054450989
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00385_oqf8cNi7lOI.mp4,1,0.7292149662971497,-0.7292149662971497
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00025_PjSeVtbvSjA.mp4,1,0.6205837726593018,-0.6205837726593018
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00100_sZ0Ex4WUEgM.mp4,1,0.7885836958885193,-0.7885836958885193
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00835_zWTp4szbb5k.mp4,1,0.697609007358551,-0.697609007358551
+id00398,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00398/00016_id00618__TwV2SmUIlY.mp4,1,0.752446174621582,-0.752446174621582
+id00398,/content/datasets/voxceleb/id00398/10_00002.mp4,0,0.845125138759613,-0.845125138759613
+id00398,/content/datasets/voxceleb/id00398/11_00030.mp4,0,0.8269555568695068,-0.8269555568695068
+id00398,/content/datasets/voxceleb/id00398/12_00028.mp4,0,0.861640989780426,-0.861640989780426
+id00398,/content/datasets/voxceleb/id00398/13_00029.mp4,0,0.8235900402069092,-0.8235900402069092
+id00398,/content/datasets/voxceleb/id00398/14_00031.mp4,0,0.816413164138794,-0.816413164138794
+id00398,/content/datasets/voxceleb/id00398/15_00032.mp4,0,0.8499910235404968,-0.8499910235404968
+id00398,/content/datasets/voxceleb/id00398/16_00038.mp4,0,0.7672877311706543,-0.7672877311706543
+id00398,/content/datasets/voxceleb/id00398/17_00037.mp4,0,0.8036105036735535,-0.8036105036735535
+id00398,/content/datasets/voxceleb/id00398/18_00036.mp4,0,0.7890279293060303,-0.7890279293060303
+id00398,/content/datasets/voxceleb/id00398/19_00016.mp4,0,0.8230434060096741,-0.8230434060096741
+id00398,/content/datasets/voxceleb/id00398/20_00019.mp4,0,0.7361273765563965,-0.7361273765563965
+id00398,/content/datasets/voxceleb/id00398/21_00017.mp4,0,0.7833866477012634,-0.7833866477012634
+id06807,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/men/id06807/00015.mp4,1,1.000000238418579,-1.000000238418579
+id06807,/content/datasets/voxceleb/id06807/10_00010.mp4,0,0.9581481218338013,-0.9581481218338013
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00192_By3wxX0dyDw.mp4,1,0.6540545225143433,-0.6540545225143433
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00358_vsVwGKy79kM.mp4,1,0.6250139474868774,-0.6250139474868774
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id01156_RT99eogJo4k.mp4,1,0.5112400054931641,-0.5112400054931641
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id03205_gXytNIcANKw.mp4,1,0.6169256567955017,-0.6169256567955017
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00055_XzCF6sJ8Axc.mp4,1,0.4680306315422058,-0.4680306315422058
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00265_dZq57FoxXR4.mp4,1,0.4566597044467926,-0.4566597044467926
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00305_LdcY3ILdQrE.mp4,1,0.6604503393173218,-0.6604503393173218
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00963_1s6PjtI643E.mp4,1,0.4370180368423462,-0.4370180368423462
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00292_qELK8N_DykA.mp4,1,0.701809287071228,-0.701809287071228
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00559_Y7ovoKuvL78.mp4,1,0.6470822691917419,-0.6470822691917419
+id00981,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00981/00092_id00292_qELK8N_DykA_faceswap.mp4,1,0.7519568204879761,-0.7519568204879761
+id00981,/content/datasets/voxceleb/id00981/10_00210.mp4,0,0.9437743425369263,-0.9437743425369263
+id00981,/content/datasets/voxceleb/id00981/11_00218.mp4,0,0.9572773575782776,-0.9572773575782776
+id00981,/content/datasets/voxceleb/id00981/12_00207.mp4,0,0.9343264102935791,-0.9343264102935791
+id00981,/content/datasets/voxceleb/id00981/13_00211.mp4,0,0.9440476894378662,-0.9440476894378662
+id00981,/content/datasets/voxceleb/id00981/14_00223.mp4,0,0.9476391077041626,-0.9476391077041626
+id00981,/content/datasets/voxceleb/id00981/15_00225.mp4,0,0.9471777677536011,-0.9471777677536011
+id00981,/content/datasets/voxceleb/id00981/16_00222.mp4,0,0.9045180082321167,-0.9045180082321167
+id00981,/content/datasets/voxceleb/id00981/17_00215.mp4,0,0.9550245404243469,-0.9550245404243469
+id00981,/content/datasets/voxceleb/id00981/18_00224.mp4,0,0.9502153992652893,-0.9502153992652893
+id00981,/content/datasets/voxceleb/id00981/19_00214.mp4,0,0.9696526527404785,-0.9696526527404785
+id00981,/content/datasets/voxceleb/id00981/20_00020.mp4,0,0.6769217848777771,-0.6769217848777771
+id05251,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/women/id05251/00033_id01178_6XpgYMiKxhc_faceswap.mp4,1,0.8626601696014404,-0.8626601696014404
+id05251,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/women/id05251/00033_id01178_6XpgYMiKxhc.mp4,1,0.789260745048523,-0.789260745048523
+id05251,/content/datasets/voxceleb/id05251/10_00004.mp4,0,0.9560325741767883,-0.9560325741767883
+id05251,/content/datasets/voxceleb/id05251/11_00009.mp4,0,0.943153440952301,-0.943153440952301
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id01172_8f8sdrQatpw.mp4,1,0.16455328464508057,-0.16455328464508057
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id00529_xtx2GeQN-DQ.mp4,1,0.4420809745788574,-0.4420809745788574
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id00060_gZ4RkcQ0SXE.mp4,1,0.43648749589920044,-0.43648749589920044
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id01182_zca-PHR_U40_faceswap.mp4,1,0.5998181104660034,-0.5998181104660034
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id01182_zca-PHR_U40.mp4,1,0.5283093452453613,-0.5283093452453613
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id03757_L-M-XbdFLQM.mp4,1,0.2903762459754944,-0.2903762459754944
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id00049_S_EHTUF-mQY.mp4,1,0.3171054422855377,-0.3171054422855377
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id03678_dsfCxodI9i8.mp4,1,0.24777618050575256,-0.24777618050575256
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_0.mp4,1,0.5843398571014404,-0.5843398571014404
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id01175_Q_36xlWL6_o.mp4,1,0.45094674825668335,-0.45094674825668335
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id00696_7PrURACjhqU.mp4,1,0.4400012195110321,-0.4400012195110321
+id00020,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00020/00206_id00018_sap-FjURHlc.mp4,1,0.15212680399417877,-0.15212680399417877
+id00020,/content/datasets/voxceleb/id00020/10_00006.mp4,0,0.6579445004463196,-0.6579445004463196
+id00020,/content/datasets/voxceleb/id00020/11_00001.mp4,0,0.640202522277832,-0.640202522277832
+id00020,/content/datasets/voxceleb/id00020/12_00005.mp4,0,0.6461731791496277,-0.6461731791496277
+id00020,/content/datasets/voxceleb/id00020/13_00004.mp4,0,0.6554880738258362,-0.6554880738258362
+id00020,/content/datasets/voxceleb/id00020/14_00003.mp4,0,0.6391189098358154,-0.6391189098358154
+id00020,/content/datasets/voxceleb/id00020/15_00002.mp4,0,0.6440533995628357,-0.6440533995628357
+id00020,/content/datasets/voxceleb/id00020/16_00191.mp4,0,0.6660962104797363,-0.6660962104797363
+id00020,/content/datasets/voxceleb/id00020/17_00193.mp4,0,0.6421489119529724,-0.6421489119529724
+id00020,/content/datasets/voxceleb/id00020/18_00190.mp4,0,0.6403207182884216,-0.6403207182884216
+id00020,/content/datasets/voxceleb/id00020/19_00188.mp4,0,0.6958066821098328,-0.6958066821098328
+id00020,/content/datasets/voxceleb/id00020/20_00192.mp4,0,0.6865919828414917,-0.6865919828414917
+id00020,/content/datasets/voxceleb/id00020/21_00189.mp4,0,0.6416285037994385,-0.6416285037994385
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id06254_8VSfI86Fua4.mp4,1,0.5815495252609253,-0.5815495252609253
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id00417_GhIZam3v09g.mp4,1,0.6588045358657837,-0.6588045358657837
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id04564_xUz03LwKRtQ.mp4,1,0.6449279189109802,-0.6449279189109802
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id07078_sLVbTD3Dtgw.mp4,1,0.6480371952056885,-0.6480371952056885
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id03985_01aVtyjfVFM.mp4,1,0.7243537902832031,-0.7243537902832031
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id00461_Ort9NW3SJU4.mp4,1,0.8206044435501099,-0.8206044435501099
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id03985_01aVtyjfVFM_faceswap.mp4,1,0.6811417937278748,-0.6811417937278748
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id06437_3BZvvzBhj8s.mp4,1,0.7573259472846985,-0.7573259472846985
+id07686,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id07686/00254_id04927_8MD618FRyfA.mp4,1,0.7422346472740173,-0.7422346472740173
+id07686,/content/datasets/voxceleb/id07686/10_00162.mp4,0,0.9384036660194397,-0.9384036660194397
+id07686,/content/datasets/voxceleb/id07686/11_00161.mp4,0,0.9404241442680359,-0.9404241442680359
+id07686,/content/datasets/voxceleb/id07686/12_00306.mp4,0,0.8065894246101379,-0.8065894246101379
+id07686,/content/datasets/voxceleb/id07686/13_00301.mp4,0,0.7895315885543823,-0.7895315885543823
+id07686,/content/datasets/voxceleb/id07686/14_00302.mp4,0,0.8204794526100159,-0.8204794526100159
+id07686,/content/datasets/voxceleb/id07686/15_00303.mp4,0,0.7651124000549316,-0.7651124000549316
+id07686,/content/datasets/voxceleb/id07686/16_00304.mp4,0,0.7984822392463684,-0.7984822392463684
+id07686,/content/datasets/voxceleb/id07686/17_00305.mp4,0,0.8143407106399536,-0.8143407106399536
+id07686,/content/datasets/voxceleb/id07686/18_00230.mp4,0,0.7870082259178162,-0.7870082259178162
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id03344_vyNnOo6lU0o.mp4,1,0.5748208165168762,-0.5748208165168762
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id00459_ubskcDDe7kM.mp4,1,0.4715012311935425,-0.4715012311935425
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id00032_AQMDc6SKNXs.mp4,1,0.6954649090766907,-0.6954649090766907
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id06753_BRg5r4jHC3I.mp4,1,0.6260759830474854,-0.6260759830474854
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id07108_qwfQPcvjGRY_faceswap.mp4,1,0.7763556241989136,-0.7763556241989136
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id08314_66ufcsq8IWA.mp4,1,0.6063005924224854,-0.6063005924224854
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id00745_eODND1ul7vE.mp4,1,0.6067837476730347,-0.6067837476730347
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id07108_qwfQPcvjGRY.mp4,1,0.5509182810783386,-0.5509182810783386
+id07195,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07195/00186_id04554_8rSKsBhAaDo.mp4,1,0.5632354617118835,-0.5632354617118835
+id07195,/content/datasets/voxceleb/id07195/10_00157.mp4,0,0.9333347678184509,-0.9333347678184509
+id07195,/content/datasets/voxceleb/id07195/11_00155.mp4,0,0.8872030973434448,-0.8872030973434448
+id07195,/content/datasets/voxceleb/id07195/12_00154.mp4,0,0.9401081800460815,-0.9401081800460815
+id07195,/content/datasets/voxceleb/id07195/13_00020.mp4,0,0.8167946338653564,-0.8167946338653564
+id07195,/content/datasets/voxceleb/id07195/14_00015.mp4,0,0.8221368193626404,-0.8221368193626404
+id07195,/content/datasets/voxceleb/id07195/15_00019.mp4,0,0.8125171661376953,-0.8125171661376953
+id07195,/content/datasets/voxceleb/id07195/16_00017.mp4,0,0.7810580730438232,-0.7810580730438232
+id07195,/content/datasets/voxceleb/id07195/17_00008.mp4,0,0.8085703253746033,-0.8085703253746033
+id07195,/content/datasets/voxceleb/id07195/18_00011.mp4,0,0.8494572639465332,-0.8494572639465332
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00020_VXYAbbQWyQM.mp4,1,0.6763184666633606,-0.6763184666633606
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id01124_Lnf2oGSM00s.mp4,1,0.564584493637085,-0.564584493637085
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00169__V1xAwwG29U.mp4,1,0.48457077145576477,-0.48457077145576477
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00049_S_EHTUF-mQY.mp4,1,0.6261928081512451,-0.6261928081512451
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00775_yeCUxHgUHxc.mp4,1,0.6154360175132751,-0.6154360175132751
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00018_sap-FjURHlc.mp4,1,0.4200079143047333,-0.4200079143047333
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id03678_dsfCxodI9i8.mp4,1,0.6964523792266846,-0.6964523792266846
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00060_gZ4RkcQ0SXE.mp4,1,0.3313848674297333,-0.3313848674297333
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id01182_zca-PHR_U40.mp4,1,0.6298261284828186,-0.6298261284828186
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id01124_Lnf2oGSM00s_faceswap.mp4,1,0.5342492461204529,-0.5342492461204529
+id00696,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00696/00005_id00179_Ux9OYyipQi8.mp4,1,0.574890673160553,-0.574890673160553
+id00696,/content/datasets/voxceleb/id00696/10_00033.mp4,0,0.9430804252624512,-0.9430804252624512
+id00696,/content/datasets/voxceleb/id00696/11_00026.mp4,0,0.8155805468559265,-0.8155805468559265
+id00696,/content/datasets/voxceleb/id00696/12_00027.mp4,0,0.8359500169754028,-0.8359500169754028
+id00696,/content/datasets/voxceleb/id00696/13_00028.mp4,0,0.8260259032249451,-0.8260259032249451
+id00696,/content/datasets/voxceleb/id00696/14_00029.mp4,0,0.8132207989692688,-0.8132207989692688
+id00696,/content/datasets/voxceleb/id00696/15_00020.mp4,0,0.7401995658874512,-0.7401995658874512
+id00696,/content/datasets/voxceleb/id00696/16_00015.mp4,0,0.7693697810173035,-0.7693697810173035
+id00696,/content/datasets/voxceleb/id00696/17_00019.mp4,0,0.6802124381065369,-0.6802124381065369
+id00696,/content/datasets/voxceleb/id00696/18_00006.mp4,0,0.7799272537231445,-0.7799272537231445
+id00696,/content/datasets/voxceleb/id00696/19_00017.mp4,0,0.7209689617156982,-0.7209689617156982
+id00696,/content/datasets/voxceleb/id00696/20_00008.mp4,0,0.730292022228241,-0.730292022228241
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id00020_VXYAbbQWyQM.mp4,1,0.6888889074325562,-0.6888889074325562
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id00243_oWwEIXM3oZQ.mp4,1,0.685021162033081,-0.685021162033081
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id04073_KT7B07WFWyM.mp4,1,0.589028537273407,-0.589028537273407
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id01044_yL58R6zBNf4.mp4,1,0.5705745816230774,-0.5705745816230774
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id00169__V1xAwwG29U.mp4,1,0.5472453236579895,-0.5472453236579895
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id01182_zca-PHR_U40.mp4,1,0.5963242650032043,-0.5963242650032043
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id03757_L-M-XbdFLQM.mp4,1,0.6038584113121033,-0.6038584113121033
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id04034_8ZeJXbjFa_o.mp4,1,0.67271888256073,-0.67271888256073
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id03678_dsfCxodI9i8.mp4,1,0.6177307963371277,-0.6177307963371277
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id01182_zca-PHR_U40_faceswap.mp4,1,0.6876709461212158,-0.6876709461212158
+id01172,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id01172/00015_id00529_xtx2GeQN-DQ.mp4,1,0.6572540402412415,-0.6572540402412415
+id01172,/content/datasets/voxceleb/id01172/10_00082.mp4,0,0.9406139850616455,-0.9406139850616455
+id01172,/content/datasets/voxceleb/id01172/11_00084.mp4,0,0.9083974957466125,-0.9083974957466125
+id01172,/content/datasets/voxceleb/id01172/12_00085.mp4,0,0.8791085481643677,-0.8791085481643677
+id01172,/content/datasets/voxceleb/id01172/13_00081.mp4,0,0.9159934520721436,-0.9159934520721436
+id01172,/content/datasets/voxceleb/id01172/14_00079.mp4,0,0.9232719540596008,-0.9232719540596008
+id01172,/content/datasets/voxceleb/id01172/15_00075.mp4,0,0.9377762675285339,-0.9377762675285339
+id01172,/content/datasets/voxceleb/id01172/16_00073.mp4,0,0.9240728616714478,-0.9240728616714478
+id01172,/content/datasets/voxceleb/id01172/17_00077.mp4,0,0.9002149105072021,-0.9002149105072021
+id01172,/content/datasets/voxceleb/id01172/18_00083.mp4,0,0.9134898781776428,-0.9134898781776428
+id01172,/content/datasets/voxceleb/id01172/19_00091.mp4,0,0.7954883575439453,-0.7954883575439453
+id01172,/content/datasets/voxceleb/id01172/20_00094.mp4,0,0.8178420662879944,-0.8178420662879944
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01170_7eoTTk4xyNo.mp4,1,0.6659493446350098,-0.6659493446350098
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_3.mp4,1,0.7167057394981384,-0.7167057394981384
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01544_uBo9585VW2A.mp4,1,0.5648191571235657,-0.5648191571235657
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01597_52WEZxe4_GE.mp4,1,0.6392918229103088,-0.6392918229103088
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id02316_yrrNcmZ-xmI.mp4,1,0.6790410876274109,-0.6790410876274109
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id04727_AAnyugIAXao.mp4,1,0.7205013632774353,-0.7205013632774353
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01170_7eoTTk4xyNo_faceswap.mp4,1,0.7401627898216248,-0.7401627898216248
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01452_4MqeoSxSy3w.mp4,1,0.5866453051567078,-0.5866453051567078
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id01528_SBAS9Kcb8QY.mp4,1,0.6288830041885376,-0.6288830041885376
+id01933,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id01933/00028_id00830_rfl3Teg9uew.mp4,1,0.6198364496231079,-0.6198364496231079
+id01933,/content/datasets/voxceleb/id01933/10_00054.mp4,0,0.9474210739135742,-0.9474210739135742
+id01933,/content/datasets/voxceleb/id01933/11_00055.mp4,0,0.9279091954231262,-0.9279091954231262
+id01933,/content/datasets/voxceleb/id01933/12_00040.mp4,0,0.7782768607139587,-0.7782768607139587
+id01933,/content/datasets/voxceleb/id01933/13_00038.mp4,0,0.7828395366668701,-0.7828395366668701
+id01933,/content/datasets/voxceleb/id01933/14_00037.mp4,0,0.7692496180534363,-0.7692496180534363
+id01933,/content/datasets/voxceleb/id01933/15_00030.mp4,0,0.7980254292488098,-0.7980254292488098
+id01933,/content/datasets/voxceleb/id01933/16_00028.mp4,0,0.7789226174354553,-0.7789226174354553
+id01933,/content/datasets/voxceleb/id01933/17_00039.mp4,0,0.7630680799484253,-0.7630680799484253
+id01933,/content/datasets/voxceleb/id01933/18_00029.mp4,0,0.8093817830085754,-0.8093817830085754
+id01933,/content/datasets/voxceleb/id01933/19_00031.mp4,0,0.7711571455001831,-0.7711571455001831
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id00476_UgdYVJ6xPYg_faceswap.mp4,1,0.7019216418266296,-0.7019216418266296
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id00476_UgdYVJ6xPYg.mp4,1,0.5703505873680115,-0.5703505873680115
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id01972_hBYoeQTm8ZQ.mp4,1,0.6403375864028931,-0.6403375864028931
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id01179_RnqLJMrWELw.mp4,1,0.4723018407821655,-0.4723018407821655
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id00366_RSOgEoek8WM.mp4,1,0.5958940386772156,-0.5958940386772156
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id01236_7WdumGR5-JM.mp4,1,0.5431172251701355,-0.5431172251701355
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id00518_qm7oQcDg4oI.mp4,1,0.7607071399688721,-0.7607071399688721
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id02494_lObg47hQleE.mp4,1,0.7667421698570251,-0.7667421698570251
+id00781,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/men/id00781/00092_id00475_xQjvXRcnPvw.mp4,1,0.40587276220321655,-0.40587276220321655
+id00781,/content/datasets/voxceleb/id00781/10_00057.mp4,0,0.9505234956741333,-0.9505234956741333
+id00781,/content/datasets/voxceleb/id00781/11_00054.mp4,0,0.8669091463088989,-0.8669091463088989
+id00781,/content/datasets/voxceleb/id00781/12_00055.mp4,0,0.9186177253723145,-0.9186177253723145
+id00781,/content/datasets/voxceleb/id00781/13_00006.mp4,0,0.9110003113746643,-0.9110003113746643
+id00781,/content/datasets/voxceleb/id00781/14_00008.mp4,0,0.9055927395820618,-0.9055927395820618
+id00781,/content/datasets/voxceleb/id00781/15_00005.mp4,0,0.8946588039398193,-0.8946588039398193
+id00781,/content/datasets/voxceleb/id00781/16_00004.mp4,0,0.920464813709259,-0.920464813709259
+id00781,/content/datasets/voxceleb/id00781/17_00009.mp4,0,0.9055702686309814,-0.9055702686309814
+id00781,/content/datasets/voxceleb/id00781/18_00010.mp4,0,0.914367139339447,-0.914367139339447
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id09181_ypUYBHscgD8.mp4,1,0.5888094902038574,-0.5888094902038574
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id06054_EicsCdNDfBs.mp4,1,0.7779186964035034,-0.7779186964035034
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id00582_9gvF6IohoUI.mp4,1,0.4553702771663666,-0.4553702771663666
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id04701_7mnc8w6jRlM.mp4,1,0.4419077932834625,-0.4419077932834625
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id08819_uDQ-DFVg5Sk.mp4,1,0.7505689859390259,-0.7505689859390259
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id02807_eFC0STvhou4.mp4,1,0.7294309735298157,-0.7294309735298157
+id04144,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04144/00028_id04414_0sJN-9GIO-M.mp4,1,0.6715198159217834,-0.6715198159217834
+id04144,/content/datasets/voxceleb/id04144/10_00009.mp4,0,0.9553616046905518,-0.9553616046905518
+id04144,/content/datasets/voxceleb/id04144/11_00007.mp4,0,0.9242451786994934,-0.9242451786994934
+id04144,/content/datasets/voxceleb/id04144/12_00030.mp4,0,0.8456152081489563,-0.8456152081489563
+id04144,/content/datasets/voxceleb/id04144/13_00029.mp4,0,0.8477107286453247,-0.8477107286453247
+id04144,/content/datasets/voxceleb/id04144/14_00015.mp4,0,0.752963125705719,-0.752963125705719
+id04144,/content/datasets/voxceleb/id04144/15_00017.mp4,0,0.6993269920349121,-0.6993269920349121
+id04144,/content/datasets/voxceleb/id04144/16_00014.mp4,0,0.7552288174629211,-0.7552288174629211
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id06054_EicsCdNDfBs.mp4,1,0.8244059085845947,-0.8244059085845947
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id02587_KzwJPH5_8j0.mp4,1,0.7529953718185425,-0.7529953718185425
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id04144__FJg9YswRzQ.mp4,1,0.8634054064750671,-0.8634054064750671
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id06066_9e5vgpwmruA.mp4,1,0.7259697318077087,-0.7259697318077087
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id01281_ojEe5zGWESc_faceswap.mp4,1,0.7121413350105286,-0.7121413350105286
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id03379_A32nCObAHiI.mp4,1,0.6955386400222778,-0.6955386400222778
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id06388_AtidJ-WlONc.mp4,1,0.8424887657165527,-0.8424887657165527
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id04701_7mnc8w6jRlM.mp4,1,0.47791486978530884,-0.47791486978530884
+id08402,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id08402/00092_id01281_ojEe5zGWESc.mp4,1,0.8089793920516968,-0.8089793920516968
+id08402,/content/datasets/voxceleb/id08402/10_00109.mp4,0,0.964958667755127,-0.964958667755127
+id08402,/content/datasets/voxceleb/id08402/11_00106.mp4,0,0.9511526226997375,-0.9511526226997375
+id08402,/content/datasets/voxceleb/id08402/12_00102.mp4,0,0.9602569341659546,-0.9602569341659546
+id08402,/content/datasets/voxceleb/id08402/13_00108.mp4,0,0.9559741020202637,-0.9559741020202637
+id08402,/content/datasets/voxceleb/id08402/14_00104.mp4,0,0.9681586623191833,-0.9681586623191833
+id08402,/content/datasets/voxceleb/id08402/15_00110.mp4,0,0.9537660479545593,-0.9537660479545593
+id08402,/content/datasets/voxceleb/id08402/16_00080.mp4,0,0.7918525338172913,-0.7918525338172913
+id08402,/content/datasets/voxceleb/id08402/17_00015.mp4,0,0.9454898834228516,-0.9454898834228516
+id08402,/content/datasets/voxceleb/id08402/18_00006.mp4,0,0.9429999589920044,-0.9429999589920044
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id02807_eFC0STvhou4.mp4,1,0.6299850940704346,-0.6299850940704346
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id03211_HK4oe6Hi91E.mp4,1,0.7169082164764404,-0.7169082164764404
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id03379_A32nCObAHiI.mp4,1,0.7246996760368347,-0.7246996760368347
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id03940_axeR0CLu96U.mp4,1,0.6936031579971313,-0.6936031579971313
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id00137_L22Rc38U5BA.mp4,1,0.5775346755981445,-0.5775346755981445
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id04066_DkqznbB2WxQ.mp4,1,0.7229009866714478,-0.7229009866714478
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id03940_axeR0CLu96U_faceswap.mp4,1,0.7548365592956543,-0.7548365592956543
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id09181_ypUYBHscgD8.mp4,1,0.6626082062721252,-0.6626082062721252
+id06427,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id06427/00138_id06061_TckvmWR97vo.mp4,1,0.6648390293121338,-0.6648390293121338
+id06427,/content/datasets/voxceleb/id06427/10_00153.mp4,0,0.9438585638999939,-0.9438585638999939
+id06427,/content/datasets/voxceleb/id06427/11_00128.mp4,0,0.7858797907829285,-0.7858797907829285
+id06427,/content/datasets/voxceleb/id06427/12_00136.mp4,0,0.7833458185195923,-0.7833458185195923
+id06427,/content/datasets/voxceleb/id06427/13_00135.mp4,0,0.7251884937286377,-0.7251884937286377
+id06427,/content/datasets/voxceleb/id06427/14_00030.mp4,0,0.7842455506324768,-0.7842455506324768
+id06427,/content/datasets/voxceleb/id06427/15_00027.mp4,0,0.7793763875961304,-0.7793763875961304
+id06427,/content/datasets/voxceleb/id06427/16_00028.mp4,0,0.7339205145835876,-0.7339205145835876
+id06427,/content/datasets/voxceleb/id06427/17_00029.mp4,0,0.7433878779411316,-0.7433878779411316
+id06427,/content/datasets/voxceleb/id06427/18_00031.mp4,0,0.7475751638412476,-0.7475751638412476
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id07194_NDJaiff98Fo.mp4,1,0.6715328097343445,-0.6715328097343445
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id00032_AQMDc6SKNXs.mp4,1,0.6997295618057251,-0.6997295618057251
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id08457_vFyjAJwQulM.mp4,1,0.7028446793556213,-0.7028446793556213
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id04562_qio_Gs7wjvY.mp4,1,0.7183499932289124,-0.7183499932289124
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id07463_AAYjDglMf2Q.mp4,1,0.6584028601646423,-0.6584028601646423
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id00103_qpTVaP4y5DQ.mp4,1,0.71989506483078,-0.71989506483078
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id00732_amGRpH0AJCs.mp4,1,0.6703667640686035,-0.6703667640686035
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id00350_75IFJNFAMIM.mp4,1,0.6829434633255005,-0.6829434633255005
+id07182,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id07182/00040_id04562_qio_Gs7wjvY_faceswap.mp4,1,0.7016263008117676,-0.7016263008117676
+id07182,/content/datasets/voxceleb/id07182/10_00034.mp4,0,0.9450496435165405,-0.9450496435165405
+id07182,/content/datasets/voxceleb/id07182/11_00035.mp4,0,0.9566205739974976,-0.9566205739974976
+id07182,/content/datasets/voxceleb/id07182/12_00036.mp4,0,0.9680189490318298,-0.9680189490318298
+id07182,/content/datasets/voxceleb/id07182/13_00033.mp4,0,0.9547450542449951,-0.9547450542449951
+id07182,/content/datasets/voxceleb/id07182/14_00043.mp4,0,0.7031975984573364,-0.7031975984573364
+id07182,/content/datasets/voxceleb/id07182/15_00026.mp4,0,0.8069778680801392,-0.8069778680801392
+id07182,/content/datasets/voxceleb/id07182/16_00025.mp4,0,0.8350722193717957,-0.8350722193717957
+id07182,/content/datasets/voxceleb/id07182/17_00030.mp4,0,0.8336155414581299,-0.8336155414581299
+id07182,/content/datasets/voxceleb/id07182/18_00027.mp4,0,0.854058027267456,-0.854058027267456
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id07377_FGNavKcGANA.mp4,1,0.7647305727005005,-0.7647305727005005
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id03559_pgetxl1qbzM.mp4,1,0.5666350722312927,-0.5666350722312927
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id04583_M10zZFjuAb0.mp4,1,0.7133499979972839,-0.7133499979972839
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id04530_W5-PTTL9HzU.mp4,1,0.661953866481781,-0.661953866481781
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id07136_4e43eS5p3_M.mp4,1,0.6902055740356445,-0.6902055740356445
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id00461_Ort9NW3SJU4.mp4,1,0.6220794916152954,-0.6220794916152954
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id07136_4e43eS5p3_M_faceswap.mp4,1,0.607976496219635,-0.607976496219635
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_0.mp4,1,0.7251549959182739,-0.7251549959182739
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id07689_2ie0g83JkgA.mp4,1,0.6200495362281799,-0.6200495362281799
+id00149,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id00149/00284_id02310_zA-8Pw0SvZg.mp4,1,0.5303284525871277,-0.5303284525871277
+id00149,/content/datasets/voxceleb/id00149/10_00168.mp4,0,0.9470327496528625,-0.9470327496528625
+id00149,/content/datasets/voxceleb/id00149/11_00161.mp4,0,0.943170964717865,-0.943170964717865
+id00149,/content/datasets/voxceleb/id00149/12_00091.mp4,0,0.7476020455360413,-0.7476020455360413
+id00149,/content/datasets/voxceleb/id00149/13_00094.mp4,0,0.7334020733833313,-0.7334020733833313
+id00149,/content/datasets/voxceleb/id00149/14_00093.mp4,0,0.7187455296516418,-0.7187455296516418
+id00149,/content/datasets/voxceleb/id00149/15_00089.mp4,0,0.7445972561836243,-0.7445972561836243
+id00149,/content/datasets/voxceleb/id00149/16_00097.mp4,0,0.7436913251876831,-0.7436913251876831
+id00149,/content/datasets/voxceleb/id00149/17_00090.mp4,0,0.7424309849739075,-0.7424309849739075
+id00149,/content/datasets/voxceleb/id00149/18_00096.mp4,0,0.7766851782798767,-0.7766851782798767
+id00149,/content/datasets/voxceleb/id00149/19_00098.mp4,0,0.754428505897522,-0.754428505897522
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00385_oqf8cNi7lOI.mp4,1,0.6931514143943787,-0.6931514143943787
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00272_VLY1boTtbRM.mp4,1,0.7427462339401245,-0.7427462339401245
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_0.mp4,1,0.5783132910728455,-0.5783132910728455
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id01223_TO3ym8Gwp7k.mp4,1,0.7034702301025391,-0.7034702301025391
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id01231_XXpYdOHUF-g.mp4,1,0.6714097261428833,-0.6714097261428833
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00835_zWTp4szbb5k.mp4,1,0.6952704787254333,-0.6952704787254333
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00190_oZUSqqG9wu4.mp4,1,0.6674081683158875,-0.6674081683158875
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00272_VLY1boTtbRM_faceswap.mp4,1,0.7224284410476685,-0.7224284410476685
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00100_sZ0Ex4WUEgM.mp4,1,0.6355931758880615,-0.6355931758880615
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00462_EMnGfAq9gg4.mp4,1,0.5919641256332397,-0.5919641256332397
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id00291_L_SLT-j82Ms.mp4,1,0.7120980620384216,-0.7120980620384216
+id00381,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/women/id00381/00030_id01248_2y-HnTO8WrQ.mp4,1,0.6511096358299255,-0.6511096358299255
+id00381,/content/datasets/voxceleb/id00381/10_00048.mp4,0,0.9424983263015747,-0.9424983263015747
+id00381,/content/datasets/voxceleb/id00381/11_00049.mp4,0,0.9450420141220093,-0.9450420141220093
+id00381,/content/datasets/voxceleb/id00381/12_00046.mp4,0,0.9358961582183838,-0.9358961582183838
+id00381,/content/datasets/voxceleb/id00381/13_00044.mp4,0,0.9142874479293823,-0.9142874479293823
+id00381,/content/datasets/voxceleb/id00381/14_00043.mp4,0,0.9133181571960449,-0.9133181571960449
+id00381,/content/datasets/voxceleb/id00381/15_00052.mp4,0,0.9439671635627747,-0.9439671635627747
+id00381,/content/datasets/voxceleb/id00381/16_00020.mp4,0,0.6316154599189758,-0.6316154599189758
+id00381,/content/datasets/voxceleb/id00381/17_00015.mp4,0,0.5671961307525635,-0.5671961307525635
+id00381,/content/datasets/voxceleb/id00381/18_00019.mp4,0,0.5567517876625061,-0.5567517876625061
+id00381,/content/datasets/voxceleb/id00381/19_00017.mp4,0,0.5744336247444153,-0.5744336247444153
+id00381,/content/datasets/voxceleb/id00381/20_00008.mp4,0,0.6149237155914307,-0.6149237155914307
+id00381,/content/datasets/voxceleb/id00381/21_00011.mp4,0,0.5790805816650391,-0.5790805816650391
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00415_saYfEadFy_s.mp4,1,0.21513046324253082,-0.21513046324253082
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00709_Rh23ELMGsIQ.mp4,1,0.35796964168548584,-0.35796964168548584
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id01102_aGFUkdgmo3A.mp4,1,0.40688085556030273,-0.40688085556030273
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00358_vsVwGKy79kM.mp4,1,0.40562140941619873,-0.40562140941619873
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id01157_yDgqfOWVKko.mp4,1,0.24457783997058868,-0.24457783997058868
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00535_BhvTIJ-YG5s.mp4,1,0.486982136964798,-0.486982136964798
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_3.mp4,1,0.4765963554382324,-0.4765963554382324
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00055_XzCF6sJ8Axc.mp4,1,0.18224084377288818,-0.18224084377288818
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00186_KTjDxHTlzg0.mp4,1,0.6658898591995239,-0.6658898591995239
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00594_2WHHoksbeVw.mp4,1,0.5033909678459167,-0.5033909678459167
+id00999,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00999/00028_id00241_DlI4wqSFwbI.mp4,1,0.5354306697845459,-0.5354306697845459
+id00999,/content/datasets/voxceleb/id00999/10_00021.mp4,0,0.9578908681869507,-0.9578908681869507
+id00999,/content/datasets/voxceleb/id00999/11_00016.mp4,0,0.9608747959136963,-0.9608747959136963
+id00999,/content/datasets/voxceleb/id00999/12_00018.mp4,0,0.9547834396362305,-0.9547834396362305
+id00999,/content/datasets/voxceleb/id00999/13_00038.mp4,0,0.7716767191886902,-0.7716767191886902
+id00999,/content/datasets/voxceleb/id00999/14_00037.mp4,0,0.769449770450592,-0.769449770450592
+id00999,/content/datasets/voxceleb/id00999/15_00039.mp4,0,0.779137134552002,-0.779137134552002
+id00999,/content/datasets/voxceleb/id00999/16_00034.mp4,0,0.7023156881332397,-0.7023156881332397
+id00999,/content/datasets/voxceleb/id00999/17_00035.mp4,0,0.7631198763847351,-0.7631198763847351
+id00999,/content/datasets/voxceleb/id00999/18_00036.mp4,0,0.7714396119117737,-0.7714396119117737
+id00999,/content/datasets/voxceleb/id00999/19_00033.mp4,0,0.7900247573852539,-0.7900247573852539
+id00999,/content/datasets/voxceleb/id00999/20_00001.mp4,0,0.7520410418510437,-0.7520410418510437
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id00137_L22Rc38U5BA.mp4,1,0.8104645609855652,-0.8104645609855652
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id06066_9e5vgpwmruA.mp4,1,0.7492285966873169,-0.7492285966873169
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id02807_eFC0STvhou4.mp4,1,0.7619673609733582,-0.7619673609733582
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id00566_V3Hg_HMhuwQ.mp4,1,0.7770794630050659,-0.7770794630050659
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id07383_G9gjJrz6L94.mp4,1,0.8342840075492859,-0.8342840075492859
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id04701_7mnc8w6jRlM.mp4,1,0.6900216341018677,-0.6900216341018677
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id06061_TckvmWR97vo.mp4,1,0.7917281985282898,-0.7917281985282898
+id05620,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id05620/00005_id06061_TckvmWR97vo_faceswap.mp4,1,0.835310697555542,-0.835310697555542
+id05620,/content/datasets/voxceleb/id05620/10_00012.mp4,0,0.9596369862556458,-0.9596369862556458
+id05620,/content/datasets/voxceleb/id05620/11_00010.mp4,0,0.9608984589576721,-0.9608984589576721
+id05620,/content/datasets/voxceleb/id05620/12_00007.mp4,0,0.9521486759185791,-0.9521486759185791
+id05620,/content/datasets/voxceleb/id05620/13_00025.mp4,0,0.9474798440933228,-0.9474798440933228
+id05620,/content/datasets/voxceleb/id05620/14_00026.mp4,0,0.8293707370758057,-0.8293707370758057
+id05620,/content/datasets/voxceleb/id05620/15_00030.mp4,0,0.8472051024436951,-0.8472051024436951
+id05620,/content/datasets/voxceleb/id05620/16_00027.mp4,0,0.8203282356262207,-0.8203282356262207
+id05620,/content/datasets/voxceleb/id05620/17_00028.mp4,0,0.806523859500885,-0.806523859500885
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00943_LxSv2rnBGA8.mp4,1,0.6305535435676575,-0.6305535435676575
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id01035_6EWG3Ywu3jg.mp4,1,0.6043873429298401,-0.6043873429298401
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00088_6WIDWxr8vuU.mp4,1,0.641011655330658,-0.641011655330658
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00088_6WIDWxr8vuU_faceswap.mp4,1,0.6471296548843384,-0.6471296548843384
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id01175_Q_36xlWL6_o.mp4,1,0.4571470022201538,-0.4571470022201538
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id01192_kAht8HG7-1s.mp4,1,0.5035874843597412,-0.5035874843597412
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id04073_KT7B07WFWyM.mp4,1,0.5736441612243652,-0.5736441612243652
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00018_sap-FjURHlc.mp4,1,0.5480318665504456,-0.5480318665504456
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id04216_uDwxIsHkBIM.mp4,1,0.47996559739112854,-0.47996559739112854
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00179_Ux9OYyipQi8.mp4,1,0.6439959406852722,-0.6439959406852722
+id00021,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (American)/men/id00021/00010_id00052_NK_leX996Yk.mp4,1,0.4971483647823334,-0.4971483647823334
+id00021,/content/datasets/voxceleb/id00021/10_00027.mp4,0,0.9605342745780945,-0.9605342745780945
+id00021,/content/datasets/voxceleb/id00021/11_00028.mp4,0,0.96635901927948,-0.96635901927948
+id00021,/content/datasets/voxceleb/id00021/12_00022.mp4,0,0.9383726119995117,-0.9383726119995117
+id00021,/content/datasets/voxceleb/id00021/13_00023.mp4,0,0.9534217119216919,-0.9534217119216919
+id00021,/content/datasets/voxceleb/id00021/14_00024.mp4,0,0.9531658291816711,-0.9531658291816711
+id00021,/content/datasets/voxceleb/id00021/15_00029.mp4,0,0.9569784998893738,-0.9569784998893738
+id00021,/content/datasets/voxceleb/id00021/16_00021.mp4,0,0.9339410662651062,-0.9339410662651062
+id00021,/content/datasets/voxceleb/id00021/17_00013.mp4,0,0.7893159985542297,-0.7893159985542297
+id00021,/content/datasets/voxceleb/id00021/18_00035.mp4,0,0.619498610496521,-0.619498610496521
+id00021,/content/datasets/voxceleb/id00021/19_00040.mp4,0,0.6756035089492798,-0.6756035089492798
+id00021,/content/datasets/voxceleb/id00021/20_00045.mp4,0,0.6662029027938843,-0.6662029027938843
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id07799_gO6nidmxrJU.mp4,1,0.6951280832290649,-0.6951280832290649
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id00935_09fNE0b4Dlg.mp4,1,0.7737143039703369,-0.7737143039703369
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id06065_Rni34oVUpTA.mp4,1,0.5915318131446838,-0.5915318131446838
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id04701_7mnc8w6jRlM.mp4,1,0.530805230140686,-0.530805230140686
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id01451_VdiJbjp23Fc.mp4,1,0.7741090655326843,-0.7741090655326843
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id00935_09fNE0b4Dlg_faceswap.mp4,1,0.7216348052024841,-0.7216348052024841
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id04144__FJg9YswRzQ.mp4,1,0.8203410506248474,-0.8203410506248474
+id04414,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (East)/women/id04414/00001_id09171_B-JRLp6chC0.mp4,1,0.6162346005439758,-0.6162346005439758
+id04414,/content/datasets/voxceleb/id04414/10_00125.mp4,0,0.7213584184646606,-0.7213584184646606
+id04414,/content/datasets/voxceleb/id04414/11_00122.mp4,0,0.6760271191596985,-0.6760271191596985
+id04414,/content/datasets/voxceleb/id04414/12_00128.mp4,0,0.6548811793327332,-0.6548811793327332
+id04414,/content/datasets/voxceleb/id04414/13_00117.mp4,0,0.7196242809295654,-0.7196242809295654
+id04414,/content/datasets/voxceleb/id04414/14_00123.mp4,0,0.7519553899765015,-0.7519553899765015
+id04414,/content/datasets/voxceleb/id04414/15_00118.mp4,0,0.7403627038002014,-0.7403627038002014
+id04414,/content/datasets/voxceleb/id04414/16_00119.mp4,0,0.7142151594161987,-0.7142151594161987
+id04414,/content/datasets/voxceleb/id04414/17_00120.mp4,0,0.7880150079727173,-0.7880150079727173
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00496_SImaDcXQnh8.mp4,1,0.486885666847229,-0.486885666847229
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00330_zCFFgGSIZ_s.mp4,1,0.5400868654251099,-0.5400868654251099
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00395_wM5kGJfTtEM.mp4,1,0.6373499631881714,-0.6373499631881714
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00365_XV-imLNJvfk.mp4,1,0.643772304058075,-0.643772304058075
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00262_3p7sRWAAh1Q.mp4,1,0.5946452021598816,-0.5946452021598816
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00823_KgExwCvgrUk.mp4,1,0.6212847828865051,-0.6212847828865051
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id03858_uKVqPfRf-ac.mp4,1,0.6503855586051941,-0.6503855586051941
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00806_0sk9s9lFIAk.mp4,1,0.7017898559570312,-0.7017898559570312
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id03589_9NxOQlwpMys.mp4,1,0.5612662434577942,-0.5612662434577942
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00897_0ayFw8JhoyI_faceswap.mp4,1,0.5306873321533203,-0.5306873321533203
+id00813,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/women/id00813/00169_id00897_0ayFw8JhoyI.mp4,1,0.537006139755249,-0.537006139755249
+id00813,/content/datasets/voxceleb/id00813/10_00121.mp4,0,0.9295525550842285,-0.9295525550842285
+id00813,/content/datasets/voxceleb/id00813/11_00124.mp4,0,0.6831550002098083,-0.6831550002098083
+id00813,/content/datasets/voxceleb/id00813/12_00166.mp4,0,0.7108263969421387,-0.7108263969421387
+id00813,/content/datasets/voxceleb/id00813/13_00167.mp4,0,0.7156992554664612,-0.7156992554664612
+id00813,/content/datasets/voxceleb/id00813/14_00058.mp4,0,0.6483729481697083,-0.6483729481697083
+id00813,/content/datasets/voxceleb/id00813/15_00053.mp4,0,0.6338341236114502,-0.6338341236114502
+id00813,/content/datasets/voxceleb/id00813/16_00061.mp4,0,0.6388925909996033,-0.6388925909996033
+id00813,/content/datasets/voxceleb/id00813/17_00067.mp4,0,0.6336785554885864,-0.6336785554885864
+id00813,/content/datasets/voxceleb/id00813/18_00060.mp4,0,0.6332951188087463,-0.6332951188087463
+id00813,/content/datasets/voxceleb/id00813/19_00066.mp4,0,0.6534705758094788,-0.6534705758094788
+id00813,/content/datasets/voxceleb/id00813/20_00063.mp4,0,0.6795151829719543,-0.6795151829719543
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id04490_G00MMIdUOTc.mp4,1,0.6487614512443542,-0.6487614512443542
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id04070_F3CgrqRjcgw.mp4,1,0.6045757532119751,-0.6045757532119751
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id07686_lwSGz24c1Bs.mp4,1,0.697166919708252,-0.697166919708252
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id00488_F3YxmZ9CYFw.mp4,1,0.7696995139122009,-0.7696995139122009
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id06268_h9p-Na_iA1s.mp4,1,0.5828102231025696,-0.5828102231025696
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id06438_vf3xBVgYqYA.mp4,1,0.8015663623809814,-0.8015663623809814
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_0.mp4,1,0.858942449092865,-0.858942449092865
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id06752_PYYIloTJiH0.mp4,1,0.7575685381889343,-0.7575685381889343
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id06438_vf3xBVgYqYA_faceswap.mp4,1,0.7719895839691162,-0.7719895839691162
+id06437,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/women/id06437/00028_id05845_XfMHm6CEwPw.mp4,1,0.6798940896987915,-0.6798940896987915
+id06437,/content/datasets/voxceleb/id06437/10_00008.mp4,0,0.960433304309845,-0.960433304309845
+id06437,/content/datasets/voxceleb/id06437/11_00011.mp4,0,0.965166449546814,-0.965166449546814
+id06437,/content/datasets/voxceleb/id06437/12_00026.mp4,0,0.963703453540802,-0.963703453540802
+id06437,/content/datasets/voxceleb/id06437/13_00005.mp4,0,0.9581099152565002,-0.9581099152565002
+id06437,/content/datasets/voxceleb/id06437/14_00025.mp4,0,0.9637695550918579,-0.9637695550918579
+id06437,/content/datasets/voxceleb/id06437/15_00014.mp4,0,0.9570416212081909,-0.9570416212081909
+id06437,/content/datasets/voxceleb/id06437/16_00013.mp4,0,0.9557777643203735,-0.9557777643203735
+id06437,/content/datasets/voxceleb/id06437/17_00030.mp4,0,0.959459125995636,-0.959459125995636
+id06437,/content/datasets/voxceleb/id06437/18_00027.mp4,0,0.9594963788986206,-0.9594963788986206
+id06437,/content/datasets/voxceleb/id06437/19_00004.mp4,0,0.969802975654602,-0.969802975654602
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id00773_2j3lUETJ57I.mp4,1,0.5717978477478027,-0.5717978477478027
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_0.mp4,1,0.7579962611198425,-0.7579962611198425
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id07182_717IRon_OIQ.mp4,1,0.6112163662910461,-0.6112163662910461
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id07210_0160kET2rUM.mp4,1,0.60912024974823,-0.60912024974823
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00028_0.mp4,1,0.34643563628196716,-0.34643563628196716
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id07058_JXJTxhrICl0.mp4,1,0.6196739673614502,-0.6196739673614502
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id07194_NDJaiff98Fo.mp4,1,0.5612325072288513,-0.5612325072288513
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id00773_2j3lUETJ57I_faceswap.mp4,1,0.6687793135643005,-0.6687793135643005
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id07108_qwfQPcvjGRY.mp4,1,0.6447874903678894,-0.6447874903678894
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id03599_y27BDmRUqMQ.mp4,1,0.529591977596283,-0.529591977596283
+id04562,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Asian (South)/men/id04562/00221_id08313_t6WZ9KCaXBM.mp4,1,0.6151047348976135,-0.6151047348976135
+id04562,/content/datasets/voxceleb/id04562/10_00135.mp4,0,0.8990225195884705,-0.8990225195884705
+id04562,/content/datasets/voxceleb/id04562/11_00142.mp4,0,0.8917379379272461,-0.8917379379272461
+id04562,/content/datasets/voxceleb/id04562/12_00138.mp4,0,0.9146840572357178,-0.9146840572357178
+id04562,/content/datasets/voxceleb/id04562/13_00137.mp4,0,0.9561036229133606,-0.9561036229133606
+id04562,/content/datasets/voxceleb/id04562/14_00139.mp4,0,0.9075952172279358,-0.9075952172279358
+id04562,/content/datasets/voxceleb/id04562/15_00140.mp4,0,0.9306600689888,-0.9306600689888
+id04562,/content/datasets/voxceleb/id04562/16_00145.mp4,0,0.8787611126899719,-0.8787611126899719
+id04562,/content/datasets/voxceleb/id04562/17_00144.mp4,0,0.9342508316040039,-0.9342508316040039
+id04562,/content/datasets/voxceleb/id04562/18_00141.mp4,0,0.8994443416595459,-0.8994443416595459
+id04562,/content/datasets/voxceleb/id04562/19_00133.mp4,0,0.9268356561660767,-0.9268356561660767
+id04562,/content/datasets/voxceleb/id04562/20_00214.mp4,0,0.7746195197105408,-0.7746195197105408
+id05252,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/women/id05252/00052_id01178_6XpgYMiKxhc_faceswap.mp4,1,0.8500815033912659,-0.8500815033912659
+id05252,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/women/id05252/00052_id01178_6XpgYMiKxhc.mp4,1,0.8551969528198242,-0.8551969528198242
+id05252,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/African/women/id05252/00052_0.mp4,1,0.8673595786094666,-0.8673595786094666
+id05252,/content/datasets/voxceleb/id05252/10_00020.mp4,0,0.8953773379325867,-0.8953773379325867
+id05252,/content/datasets/voxceleb/id05252/11_00019.mp4,0,0.8715201616287231,-0.8715201616287231
+id05252,/content/datasets/voxceleb/id05252/12_00022.mp4,0,0.8514339923858643,-0.8514339923858643
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00415_saYfEadFy_s.mp4,1,0.6668581962585449,-0.6668581962585449
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00241_DlI4wqSFwbI.mp4,1,0.6823317408561707,-0.6823317408561707
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_3.mp4,1,0.4233008623123169,-0.4233008623123169
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_0.mp4,1,0.5483953952789307,-0.5483953952789307
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00253_cyTfcQDjvU0.mp4,1,0.6882220506668091,-0.6882220506668091
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00963_1s6PjtI643E.mp4,1,0.6470562219619751,-0.6470562219619751
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00358_vsVwGKy79kM.mp4,1,0.45537513494491577,-0.45537513494491577
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00520_dOAxKi1t6GI.mp4,1,0.6569682955741882,-0.6569682955741882
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_1.mp4,1,0.6083912253379822,-0.6083912253379822
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00306_CDX55F3nWNc.mp4,1,0.6784189343452454,-0.6784189343452454
+id00183,/content/datasets/fakeavceleb/FakeAVCeleb_v1.2/FakeVideo-RealAudio/Caucasian (European)/men/id00183/00015_id00055_XzCF6sJ8Axc.mp4,1,0.7295866012573242,-0.7295866012573242
+id00183,/content/datasets/voxceleb/id00183/10_00014.mp4,0,0.9649084210395813,-0.9649084210395813
+id00183,/content/datasets/voxceleb/id00183/11_00013.mp4,0,0.9408597350120544,-0.9408597350120544
+id00183,/content/datasets/voxceleb/id00183/12_00021.mp4,0,0.9308167099952698,-0.9308167099952698
+id00183,/content/datasets/voxceleb/id00183/13_00016.mp4,0,0.8817042112350464,-0.8817042112350464
+id00183,/content/datasets/voxceleb/id00183/14_00018.mp4,0,0.9151906967163086,-0.9151906967163086
+id00183,/content/datasets/voxceleb/id00183/15_00001.mp4,0,0.7622131109237671,-0.7622131109237671
+id00183,/content/datasets/voxceleb/id00183/16_00006.mp4,0,0.644932746887207,-0.644932746887207
+id00183,/content/datasets/voxceleb/id00183/17_00005.mp4,0,0.6423159241676331,-0.6423159241676331
+id00183,/content/datasets/voxceleb/id00183/18_00004.mp4,0,0.6945812702178955,-0.6945812702178955
+id00183,/content/datasets/voxceleb/id00183/19_00003.mp4,0,0.6418604850769043,-0.6418604850769043
+id00183,/content/datasets/voxceleb/id00183/20_00002.mp4,0,0.6732521653175354,-0.6732521653175354
